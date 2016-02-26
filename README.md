@@ -1,6 +1,6 @@
 # Genome assembly
 
-This data set is part of the [*Polistes dominula* genome project][pdomproj], and details the assembly of the *P. dominula* genome, as described in (Standage *et al.*, manuscript in preparation).
+This data set is part of the [*Polistes dominula* genome project][pdomproj], and details the assembly of the *P. dominula* genome, as described in ([Standage *et al.*, *Molecular Ecology*, 2016][ref]).
 Included in this data set is the final genome assembly itself, as well as documentation providing complete disclosure of the assembly procedure.
 
 ## Synopsis
@@ -81,6 +81,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 
 [pdomproj]: https://github.com/PdomGenomeProject
+[ref]: http://dx.doi.org/10.1111/mec.13578
 [Trimmomatic]: http://www.usadellab.org/cms/index.php?page=trimmomatic
 [0.22]: http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/Trimmomatic-0.22.zip
 [AllPaths-LG]: http://www.broadinstitute.org/scientific-community/science/programs/genome-sequencing-and-analysis/computational-rd/computational-
